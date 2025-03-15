@@ -37,9 +37,8 @@ I'm a passionate developer with a keen interest in building scalable and innovat
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [@RidhimaAgarwal](https://github.com/yourgithubusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/pyarasani-bhavya/]
+- GitHub: [@PYARASANI-BHAVYA](https://github.com/PYARASANI-BHAVYA)
 
 ---
 
