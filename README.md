@@ -21,6 +21,8 @@ I'm a passionate developer with a keen interest in building scalable and innovat
 - GitHub: [@PYARASANI-BHAVYA](https://github.com/PYARASANI-BHAVYA)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/PyarasaniBhavya?theme=dark&font=Karma&ext=contest)
+---
 
 🌟 **“Code, Create, Innovate.”** 🚀
 
