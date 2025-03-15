@@ -21,8 +21,21 @@ I'm a passionate developer with a keen interest in building scalable and innovat
 - GitHub: [@PYARASANI-BHAVYA](https://github.com/PYARASANI-BHAVYA)
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/PyarasaniBhavya?theme=dark&font=Karma&ext=contest)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYARASANI_BHAVYA&layout=compact&theme=radical)
+
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PYARASANI-BHAVYA&show_icons=true&theme=radical)
+
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/PyarasaniBhavya?theme=dark&font=Karma&ext=contest)
+
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PYARASANI_BHAVYA&theme=radical)
+
+---
+![LeetCode Badge](https://img.shields.io/badge/Dynamic-Stats-orange?style=for-the-badge&logo=leetcode)
+
+--
 
 🌟 **“Code, Create, Innovate.”** 🚀
 
