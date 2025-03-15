@@ -20,6 +20,7 @@ I'm a passionate developer with a keen interest in building scalable and innovat
 - LinkedIn: [https://www.linkedin.com/in/pyarasani-bhavya/]
 - GitHub: [@PYARASANI-BHAVYA](https://github.com/PYARASANI-BHAVYA)
 
+<!-- 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYARASANI-BHAVYA&layout=compact&theme=radical)
 
@@ -35,7 +36,7 @@ I'm a passionate developer with a keen interest in building scalable and innovat
 ---
 ![LeetCode Badge](https://img.shields.io/badge/Dynamic-Stats-orange?style=for-the-badge&logo=leetcode)
 
---
+-->
 
 🌟 **“Code, Create, Innovate.”** 🚀
 
